@@ -1,30 +1,5 @@
 <h1>Vulnerabilities in the TCP/IP Protocol</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TCP/IP Vulnerabilities Lab</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            color: #333;
-        }
-        h1 {
-            color: #0044cc;
-        }
-        ul {
-            margin-top: 10px;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
     <p>
         The vulnerabilities in the TCP/IP protocols represent a special genre of vulnerabilities in protocol designs and implementations; they provide an invaluable lesson as to why security should be designed in from the beginning, rather than being added as an afterthought. Moreover, studying these vulnerabilities help students understand the challenges of network security and why many network security measures are needed.
     </p>
