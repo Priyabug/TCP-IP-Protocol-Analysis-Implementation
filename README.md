@@ -30,23 +30,23 @@
 
 <h2>Program walk-through:</h2>
 
-<h1>Task 1: SYN Flooding Attack</h1>
+<h3>Task 1: SYN Flooding Attack</h3>
     <ul>
         <li>Task 1.1: Launching the Attack Using Python</li>
         <li>Task 1.2: Launch the Attack Using C</li>
         <li>Task 1.3: Enable the SYN Cookie Countermeasure</li>
     </ul>
 
-<h1>Task 2: TCP RST Attacks on telnet Connections</h1>
+<h3>Task 2: TCP RST Attacks on telnet Connections</h3>
     <ul>
         <li>Launching the attack manually</li>
         <li>Optional: Launching the attack automatically</li>
     </ul>
 
-<h1>Task 3: TCP Session Hijacking</h1>
+<h3>Task 3: TCP Session Hijacking</h3>
     <ul>
         <li>Launching the attack manually</li>
         <li>Optional: Launching the attack automatically</li>
     </ul>
 
-<h1>Task 4: Creating Reverse Shell using TCP Session Hijacking</h1>
+<h3>Task 4: Creating Reverse Shell using TCP Session Hijacking</h3>
