@@ -15,7 +15,7 @@
         <li>A special type of TCP attack, the Mitnick attack, is covered in a separate lab.</li>
     </ul>
 </body>
-</html>
+
 
 
 <h2>Languages and Utilities Used</h2>
