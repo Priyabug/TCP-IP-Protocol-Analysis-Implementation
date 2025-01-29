@@ -37,16 +37,16 @@
         <li>Task 1.3: Enable the SYN Cookie Countermeasure</li>
     </ul>
 
-    <h2>Task 2: TCP RST Attacks on telnet Connections</h2>
+<h2>Task 2: TCP RST Attacks on telnet Connections</h2>
     <ul>
         <li>Launching the attack manually</li>
         <li>Optional: Launching the attack automatically</li>
     </ul>
 
-    <h2>Task 3: TCP Session Hijacking</h2>
+<h2>Task 3: TCP Session Hijacking</h2>
     <ul>
         <li>Launching the attack manually</li>
         <li>Optional: Launching the attack automatically</li>
     </ul>
 
-    <h2>Task 4: Creating Reverse Shell using TCP Session Hijacking</h2>
+<h2>Task 4: Creating Reverse Shell using TCP Session Hijacking</h2>
