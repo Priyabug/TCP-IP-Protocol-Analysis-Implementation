@@ -29,4 +29,24 @@
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-<embed src a href="https://drive.google.com/file/d/1uCxoX4KH4VHQnJwIdMl1H1Zu7jlkE_vg/view" alt=""></a> </embed>
+
+<h2>Task 1: SYN Flooding Attack</h2>
+    <ul>
+        <li>Task 1.1: Launching the Attack Using Python</li>
+        <li>Task 1.2: Launch the Attack Using C</li>
+        <li>Task 1.3: Enable the SYN Cookie Countermeasure</li>
+    </ul>
+
+    <h2>Task 2: TCP RST Attacks on telnet Connections</h2>
+    <ul>
+        <li>Launching the attack manually</li>
+        <li>Optional: Launching the attack automatically</li>
+    </ul>
+
+    <h2>Task 3: TCP Session Hijacking</h2>
+    <ul>
+        <li>Launching the attack manually</li>
+        <li>Optional: Launching the attack automatically</li>
+    </ul>
+
+    <h2>Task 4: Creating Reverse Shell using TCP Session Hijacking</h2>
