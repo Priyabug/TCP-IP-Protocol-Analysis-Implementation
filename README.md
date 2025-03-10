@@ -20,35 +20,35 @@
 ![image](https://github.com/user-attachments/assets/02fc8ae7-05e9-4627-a0c2-b636bd0efe2b)   ![image](https://github.com/user-attachments/assets/99277ba8-5171-4955-8867-6935e4187dc2)
 
 
+# 🛠️ Languages and Utilities Used  
+- **Python**  
+- **Ubuntu 20.04 VM**  
 
-<h2>Languages and Utilities Used</h2>
+---
 
-- <b>Python</b> 
-- <b>Ubuntu 20.04 VM</b>
+# 💻 Environments Used  
+- **Windows 10 (21H2)**  
 
-<h2>Environments Used </h2>
+---
 
-- <b>Windows 10</b> (21H2)
+# 🔍 Program Walk-through  
 
-<h2>Program walk-through:</h2>
+## 🚀 Task 1: SYN Flooding Attack  
+🔹 **Task 1.1:** Launching the attack using **Python**  
+🔹 **Task 1.2:** Launching the attack using **C**  
+🔹 **Task 1.3:** Enabling the **SYN Cookie** countermeasure  
 
-<h3>Task 1: SYN Flooding Attack</h3>
-    <ul>
-        <li>Task 1.1: Launching the Attack Using Python</li>
-        <li>Task 1.2: Launch the Attack Using C</li>
-        <li>Task 1.3: Enable the SYN Cookie Countermeasure</li>
-    </ul>
+## 🚀 Task 2: TCP RST Attacks on Telnet Connections  
+🔹 **Manual Attack Execution**  
+🔹 *(Optional)*: Automating the attack  
 
-<h3>Task 2: TCP RST Attacks on telnet Connections</h3>
-    <ul>
-        <li>Launching the attack manually</li>
-        <li>Optional: Launching the attack automatically</li>
-    </ul>
+## 🚀 Task 3: TCP Session Hijacking  
+🔹 **Manual Attack Execution**  
+🔹 *(Optional)*: Automating the attack  
 
-<h3>Task 3: TCP Session Hijacking</h3>
-    <ul>
-        <li>Launching the attack manually</li>
-        <li>Optional: Launching the attack automatically</li>
-    </ul>
+## 🚀 Task 4: Creating a Reverse Shell Using TCP Session Hijacking  
 
-<h3>Task 4: Creating Reverse Shell using TCP Session Hijacking</h3>
+---
+
+✅ **This lab provides hands-on experience in executing and mitigating critical TCP-based attacks, strengthening your understanding of network security vulnerabilities.**  
+
