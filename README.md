@@ -1,21 +1,31 @@
-<h1>Vulnerabilities in the TCP/IP Protocol</h1>
+# 🔍 Vulnerabilities in the TCP/IP Protocol  
 
-<body>
-    <p>
-        The vulnerabilities in the TCP/IP protocols represent a special genre of vulnerabilities in protocol designs and implementations; they provide an invaluable lesson as to why security should be designed in from the beginning, rather than being added as an afterthought. Moreover, studying these vulnerabilities help students understand the challenges of network security and why many network security measures are needed.
-    </p>
-    <p>
-        In this lab, students will conduct several attacks on TCP. This lab covers the following topics:
-    </p>
-    <ul>
-        <li>The TCP protocol</li>
-        <li>TCP SYN flood attack, and SYN cookies</li>
-        <li>TCP reset attack</li>
-        <li>TCP session hijacking attack</li>
-        <li>Reverse shell</li>
-        <li>A special type of TCP attack, the Mitnick attack, is covered in a separate lab.</li>
-    </ul>
-</body>
+## 📌 Overview  
+The vulnerabilities in the **TCP/IP protocols** represent a unique class of **protocol design and implementation flaws**. These weaknesses emphasize the importance of **integrating security from the beginning** rather than treating it as an afterthought.  
+
+Studying these vulnerabilities helps in understanding:  
+- The **challenges of network security**  
+- The necessity of **various security measures**  
+
+This lab provides hands-on experience with several **TCP-based attacks** to illustrate real-world network security risks.  
+
+---
+
+## 🏆 Lab Objectives  
+In this lab, students will conduct **multiple attacks on TCP**, covering the following topics:  
+
+✔️ **The TCP Protocol** – Understanding its structure and functionality  
+✔️ **TCP SYN Flood Attack** – Exploring denial-of-service (DoS) techniques and **SYN cookies** as a defense mechanism  
+✔️ **TCP Reset Attack** – Disrupting established connections by injecting forged TCP reset packets  
+✔️ **TCP Session Hijacking Attack** – Exploiting sequence number prediction to take over an active session  
+✔️ **Reverse Shell** – Gaining remote control over a target system using TCP-based exploits  
+
+🔹 **Bonus:** A **special type of TCP attack, the Mitnick attack**, is covered in a separate lab.  
+
+---
+
+🚀 **By completing this lab, students will gain critical insights into TCP/IP security flaws and the importance of implementing robust security measures in network protocols.**  
+
 
 ![image](https://github.com/user-attachments/assets/02fc8ae7-05e9-4627-a0c2-b636bd0efe2b)   ![image](https://github.com/user-attachments/assets/99277ba8-5171-4955-8867-6935e4187dc2)
 
