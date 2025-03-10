@@ -30,18 +30,18 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 ![image](https://github.com/user-attachments/assets/02fc8ae7-05e9-4627-a0c2-b636bd0efe2b)   ![image](https://github.com/user-attachments/assets/99277ba8-5171-4955-8867-6935e4187dc2)
 
 
-# 🛠️ Languages and Utilities Used  
+## 🛠️ Languages and Utilities Used  
 - **Python**  
 - **Ubuntu 20.04 VM**  
 
 ---
 
-# 💻 Environments Used  
+## 💻 Environments Used  
 - **Windows 10 (21H2)**  
 
 ---
 
-# 🔍 Program Walk-through  
+## 🔍 Program Walk-through  
 
 ## 🚀 Task 1: SYN Flooding Attack  
 🔹 **Task 1.1:** Launching the attack using **Python**  
