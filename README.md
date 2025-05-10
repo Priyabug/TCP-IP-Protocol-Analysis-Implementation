@@ -52,7 +52,7 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 🔹 **Manual Execution**  
 🔹 **Network Automation(Terraform)**  
 
-## 🚀 Task 3: TCP Session Hijacking  
+## 🚀 Task 3: TCP Session 
 🔹 **Manual Execution**  
 🔹 **Network Automation(Terraform)**  
 
