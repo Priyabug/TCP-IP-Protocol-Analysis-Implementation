@@ -1,7 +1,7 @@
 # 🔍 TCP-IP Protocol Analysis Implementation  
 
 ## 📌 Overview  
-The vulnerabilities in the **TCP/IP protocols** represent a unique class of **protocol design and implementation flaws**. These weaknesses emphasize the importance of **integrating security from the beginning** rather than treating it as an afterthought.  
+The **TCP/IP protocols** represent a unique class of **protocol design and implementation flaws**. These weaknesses emphasize the importance of **integrating security from the beginning** rather than treating it as an afterthought.  
 
 Studying these vulnerabilities helps in understanding:  
 - The **challenges of network security**  
@@ -15,9 +15,9 @@ This lab provides hands-on experience with several **TCP-based attacks** to illu
 In this lab, students will conduct **multiple attacks on TCP**, covering the following topics:  
 
 ✔️ **The TCP Protocol** – Understanding its structure and functionality  
-✔️ **TCP SYN Flood Attack** – Exploring denial-of-service (DoS) techniques and **SYN cookies** as a defense mechanism  
+✔️ **TCP SYN Flood** – Exploring denial-of-service (DoS) techniques and **SYN cookies** as a defense mechanism  
 ✔️ **TCP Reset Attack** – Disrupting established connections by injecting forged TCP reset packets  
-✔️ **TCP Session Hijacking Attack** – Exploiting sequence number prediction to take over an active session  
+✔️ **TCP Session** – Exploiting sequence number prediction to take over an active session  
 ✔️ **Reverse Shell** – Gaining remote control over a target system using TCP-based exploits  
 
 🔹 **Bonus:** A **special type of TCP attack, the Mitnick attack**, is covered in a separate lab.  
@@ -50,15 +50,15 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 
 ## 🚀 Task 2: TCP RST Attacks on Telnet Connections  
 🔹 **Manual Attack Execution**  
-🔹 *(Optional)*: Automating the attack  
+🔹 *(Optional)*: Network Automation
 
 ## 🚀 Task 3: TCP Session Hijacking  
 🔹 **Manual Attack Execution**  
-🔹 *(Optional)*: Automating the attack  
+🔹 *(Optional)*: Network Automation(Terraform)
 
-## 🚀 Task 4: Creating a Reverse Shell Using TCP Session Hijacking  
+## 🚀 Task 4: Creating a Reverse Shell Using TCP Session 
 
 ---
 
-✅ **This lab provides hands-on experience in executing and mitigating critical TCP-based attacks, strengthening your understanding of network security vulnerabilities.**  
+✅ **This lab provides hands-on experience in executing and mitigating critical TCP/IP, strengthening your understanding of network security measures.**  
 
