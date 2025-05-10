@@ -26,7 +26,8 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 🚀 **By completing this lab, students will gain critical insights into TCP/IP security flaws and the importance of implementing robust security measures in network protocols.**  
 
 
-![image](https://github.com/user-attachments/assets/02fc8ae7-05e9-4627-a0c2-b636bd0efe2b)   ![image](https://github.com/user-attachments/assets/99277ba8-5171-4955-8867-6935e4187dc2)
+![image](https://github.com/user-attachments/assets/fb4d3fd1-1a54-4cab-92ad-9c3808f54541)
+
 
 
 ## 🛠️ Languages and Utilities Used  
