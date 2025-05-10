@@ -3,7 +3,7 @@
 ## 📌 Overview  
 The **TCP/IP protocols** represent a unique class of **protocol design and implementation flaws**. These weaknesses emphasize the importance of **integrating security from the beginning** rather than treating it as an afterthought.  
 
-Studying these vulnerabilities helps in understanding:  
+Studying these protocols helps in understanding:  
 - The **challenges of network security**  
 - The necessity of **various security measures**  
 
@@ -16,11 +16,10 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 
 ✔️ **The TCP Protocol** – Understanding its structure and functionality  
 ✔️ **TCP SYN Flood** – Exploring denial-of-service (DoS) techniques and **SYN cookies** as a defense mechanism  
-✔️ **TCP Reset Attack** – Disrupting established connections by injecting forged TCP reset packets  
+✔️ **TCP Reset** – Disrupting established connections by injecting forged TCP reset packets  
 ✔️ **TCP Session** – Exploiting sequence number prediction to take over an active session  
 ✔️ **Reverse Shell** – Gaining remote control over a target system using TCP-based exploits  
 
-🔹 **Bonus:** A **special type of TCP attack, the Mitnick attack**, is covered in a separate lab.  
 
 ---
 
@@ -50,11 +49,11 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 
 ## 🚀 Task 2: TCP RST Attacks on Telnet Connections  
 🔹 **Manual Attack Execution**  
-🔹 *(Optional)*: Network Automation
+🔹 **Network Automation(Terraform)**  
 
 ## 🚀 Task 3: TCP Session Hijacking  
 🔹 **Manual Attack Execution**  
-🔹 *(Optional)*: Network Automation(Terraform)
+🔹 **Network Automation**  
 
 ## 🚀 Task 4: Creating a Reverse Shell Using TCP Session 
 
