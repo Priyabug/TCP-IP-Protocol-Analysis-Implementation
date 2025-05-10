@@ -7,7 +7,7 @@ Studying these vulnerabilities helps in understanding:
 - The **challenges of network security**  
 - The necessity of **various security measures**  
 
-This lab provides hands-on experience with several **TCP-based attacks** to illustrate real-world network security risks.  
+This lab provides hands-on experience with several **TCP/IP** to illustrate real-world network infrastructure.  
 
 ---
 
