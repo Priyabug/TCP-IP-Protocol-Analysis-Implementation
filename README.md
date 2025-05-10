@@ -42,7 +42,7 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 
 ## 🔍 Program Walk-through  
 
-## 🚀 Task 1: SYN Flooding Attack  
+## 🚀 Task 1: SYN Flooding 
 🔹 **Task 1.1:** Launching the attack using **Python**  
 🔹 **Task 1.2:** Launching the attack using **C**  
 🔹 **Task 1.3:** Enabling the **SYN Cookie** countermeasure  
