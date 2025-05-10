@@ -44,17 +44,17 @@ In this lab, students will conduct **multiple attacks on TCP**, covering the fol
 ## 🔍 Program Walk-through  
 
 ## 🚀 Task 1: SYN Flooding 
-🔹 **Task 1.1:** Launching the attack using **Python**  
-🔹 **Task 1.2:** Launching the attack using **C**  
+🔹 **Task 1.1:** Launching the the network connection using **Python**  
+🔹 **Task 1.2:** Launching the connection using **C**  
 🔹 **Task 1.3:** Enabling the **SYN Cookie** countermeasure  
 
-## 🚀 Task 2: TCP RST Attacks on Telnet Connections  
-🔹 **Manual Attack Execution**  
+## 🚀 Task 2: TCP RST connections on Telnet Connections  
+🔹 **Manual Execution**  
 🔹 **Network Automation(Terraform)**  
 
 ## 🚀 Task 3: TCP Session Hijacking  
-🔹 **Manual Attack Execution**  
-🔹 **Network Automation**  
+🔹 **Manual Execution**  
+🔹 **Network Automation(Terraform)**  
 
 ## 🚀 Task 4: Creating a Reverse Shell Using TCP Session 
 
